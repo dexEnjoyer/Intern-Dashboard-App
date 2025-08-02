@@ -154,7 +154,7 @@ You can refer to the `/screenshots` folder or run the app to view the following 
 **Punit Panda**  
 Flutter & Backend Developer  
 📧 [gmail](mailto:punitpanda26022005@gmail.com)  
-🌐 [LinkedIn]((https://www.linkedin.com/in/punit-panda-49126b252/)) | [GitHub](https://github.com/dexEnjoyer)
+🌐 [LinkedIn](https://www.linkedin.com/in/punit-panda-49126b252/) | [GitHub](https://github.com/dexEnjoyer)
 
 ---
 
@@ -169,13 +169,10 @@ See the [LICENSE](LICENSE) file for more details.
 
 Screenshots of app screen
 
-![WhatsApp Image 2025-08-02 at 06 15 07_f5697cbd](https://github.com/user-attachments/assets/6dfcb141-d09b-47b8-a506-e2da4bce54b1)
+![WhatsApp Image 2025-08-02 at 06 15 07_f5697cbd](https://github.com/user-attachments/assets/6dfcb141-d09b-47b8-a506-e2da4bce54b1)          ![WhatsApp Image 2025-08-02 at 06 15 07_98a031a6](https://github.com/user-attachments/assets/00a13620-070d-41cd-8e92-17196979b384)
 
-![WhatsApp Image 2025-08-02 at 06 15 07_98a031a6](https://github.com/user-attachments/assets/00a13620-070d-41cd-8e92-17196979b384)
+![WhatsApp Image 2025-08-02 at 06 15 07_fc0a6e01](https://github.com/user-attachments/assets/25138f61-3340-42ce-a089-9c25e9eeb95a)          ![WhatsApp Image 2025-08-02 at 06 15 08_967a1925](https://github.com/user-attachments/assets/5b8f5e1a-1f9d-4d19-923e-68a2a0dee332)
 
-![WhatsApp Image 2025-08-02 at 06 15 07_fc0a6e01](https://github.com/user-attachments/assets/25138f61-3340-42ce-a089-9c25e9eeb95a)
-
-![WhatsApp Image 2025-08-02 at 06 15 08_967a1925](https://github.com/user-attachments/assets/5b8f5e1a-1f9d-4d19-923e-68a2a0dee332)
 
 > Apk source 
 
