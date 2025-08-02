@@ -123,8 +123,6 @@ flutter run
 
 > Make sure your device or emulator is running and Flutter is installed correctly.
 
----
-
 ## 📸 UI Preview
 
 You can refer to the `/screenshots` folder or run the app to view the following screens:
@@ -134,9 +132,6 @@ You can refer to the `/screenshots` folder or run the app to view the following 
 - ✅ Leaderboard with Top Fundraisers
 - ✅ Announcements List
 
-(Screenshots to be added in `/screenshots`)
-
----
 
 ## 🔮 Future Scope
 
@@ -158,13 +153,6 @@ Flutter & Backend Developer
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License.  
-See the [LICENSE](LICENSE) file for more details.
-
----
-
 > “Empowering youth through fundraising innovation.”
 
 Screenshots of app screen
@@ -180,7 +168,8 @@ QR code for download
 <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/cfb66444-4453-4b22-a358-eda9b27ac004" />
 
 APK download link(if the QR code doesn't work)
-[](https://drive.google.com/file/d/1zlHLcYrMAIEx6gFxqigsAVyJ2OVDlVOq/view?usp=sharing)
+<a
+href  = "https://drive.google.com/file/d/1zlHLcYrMAIEx6gFxqigsAVyJ2OVDlVOq/view?usp=sharing"> Intern Portal </a>
 
 
 
