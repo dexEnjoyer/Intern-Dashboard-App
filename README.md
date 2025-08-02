@@ -168,6 +168,7 @@ See the [LICENSE](LICENSE) file for more details.
 > “Empowering youth through fundraising innovation.”
 
 Screenshots of app screen
+
 ![WhatsApp Image 2025-08-02 at 06 15 07_f5697cbd](https://github.com/user-attachments/assets/6dfcb141-d09b-47b8-a506-e2da4bce54b1)
 
 ![WhatsApp Image 2025-08-02 at 06 15 07_98a031a6](https://github.com/user-attachments/assets/00a13620-070d-41cd-8e92-17196979b384)
@@ -176,12 +177,10 @@ Screenshots of app screen
 
 ![WhatsApp Image 2025-08-02 at 06 15 08_967a1925](https://github.com/user-attachments/assets/5b8f5e1a-1f9d-4d19-923e-68a2a0dee332)
 
-
 > Apk source 
 
 QR code for download
 <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/cfb66444-4453-4b22-a358-eda9b27ac004" />
-
 
 APK download link(if the QR code doesn't work)
 
