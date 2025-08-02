@@ -183,7 +183,6 @@ QR code for download
 <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/cfb66444-4453-4b22-a358-eda9b27ac004" />
 
 APK download link(if the QR code doesn't work)
-
 [](https://drive.google.com/file/d/1zlHLcYrMAIEx6gFxqigsAVyJ2OVDlVOq/view?usp=sharing)
 
 
