@@ -15,6 +15,15 @@ A Flutter-based mobile UI prototype for a **Fundraising Intern Portal**. This ap
 
 ---
 
+> Apk source 
+
+QR code for download
+<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/cfb66444-4453-4b22-a358-eda9b27ac004" />
+
+APK download link(if the QR code doesn't work)
+<a
+href  = "https://drive.google.com/file/d/1zlHLcYrMAIEx6gFxqigsAVyJ2OVDlVOq/view?usp=sharing"> Intern Portal </a>
+
 ## 🛠️ Tech Stack
 
 - [Flutter](https://flutter.dev/)
@@ -106,14 +115,7 @@ Screenshots of app screen
 ![WhatsApp Image 2025-08-02 at 06 15 07_fc0a6e01](https://github.com/user-attachments/assets/25138f61-3340-42ce-a089-9c25e9eeb95a)          ![WhatsApp Image 2025-08-02 at 06 15 08_967a1925](https://github.com/user-attachments/assets/5b8f5e1a-1f9d-4d19-923e-68a2a0dee332)
 
 
-> Apk source 
 
-QR code for download
-<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/cfb66444-4453-4b22-a358-eda9b27ac004" />
-
-APK download link(if the QR code doesn't work)
-<a
-href  = "https://drive.google.com/file/d/1zlHLcYrMAIEx6gFxqigsAVyJ2OVDlVOq/view?usp=sharing"> Intern Portal </a>
 
 
 
