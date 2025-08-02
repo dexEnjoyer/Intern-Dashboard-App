@@ -69,33 +69,7 @@ List<Fundraiser> mockFundraisers = [
   Fundraiser(name: 'Arjun Mehta', score: 850),
   Fundraiser(name: 'Zara Sheikh', score: 820),
 ];
-```
 
-### 📣 Announcements Sample
-
-```dart
-final List announcements = [
-  {
-    "title": "New Fundraising Campaign Launch",
-    "date": "2024-01-15",
-    "desc": "We're excited to announce the launch of our new campaign, 'Empower Futures'. Your participation is crucial to its success!"
-  },
-  {
-    "title": "Volunteer Appreciation Event",
-    "date": "2024-01-10",
-    "desc": "Join us to celebrate the incredible contributions of our volunteers."
-  },
-  {
-    "title": "Upcoming Training Workshop",
-    "date": "2024-01-05",
-    "desc": "Enhance your fundraising skills with strategies for donor engagement and campaign planning."
-  },
-  {
-    "title": "Mid-Year Performance Review",
-    "date": "2024-06-15",
-    "desc": "Submit your performance reports for the mid-year review to earn extra rewards!"
-  },
-];
 ```
 
 ---
